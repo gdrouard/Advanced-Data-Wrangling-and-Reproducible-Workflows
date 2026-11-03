@@ -1,0 +1,3 @@
+# Copy this file to .Renviron (it is git-ignored) and fill in your details.
+# Web APIs expect you to identify yourself.
+COURSE_USER_AGENT="Your Name, University of Helsinki, your.name@helsinki.fi (course ebook)"

@@ -1,0 +1,9 @@
+.Rproj.user/
+.Rhistory
+.RData
+.Renviron
+.DS_Store
+.quarto/
+_book/
+_freeze/
+*_files/
