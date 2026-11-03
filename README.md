@@ -1,6 +1,6 @@
 # Course ebook
 
-My ebook for the course *Advanced Data Wrangling and Reproducible Workflows* (teached by Gabin Drouard), one chapter per part of the course.
+My ebook for the course *Advanced Data Wrangling and Reproducible Workflows* (taught by Gabin Drouard), one chapter per part of the course.
 
 ## First-time setup
 

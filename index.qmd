@@ -1,6 +1,6 @@
 # About this book {.unnumbered}
 
-This ebook is my working record for the course *Data processing and handling*.
+This ebook is my working record for the course *Advanced Data Wrangling and Reproducible Workflows*.
 Each chapter is one part of the course.
 
 **Author:** *(your name, programme)*
