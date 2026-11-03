@@ -4,9 +4,9 @@ project:
 
 book:
   title: " Advanced Data Wrangling and Reproducible Workflows: my course ebook"
-  author: "Your name"            # <- replace
+  author: "Gabin Drouard"            # <- replace
   date: today
-  repo-url: https://github.com/USERNAME/REPOSITORY   # <- replace
+  repo-url: https://github.com/gdrouard/Advanced-Data-Wrangling-and-Reproducible-Workflows   # <- replace
   repo-actions: [edit, issue]
   chapters:
     - index.qmd
