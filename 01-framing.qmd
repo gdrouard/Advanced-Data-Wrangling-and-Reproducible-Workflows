@@ -1,0 +1,30 @@
+# Framing and setup {#sec-framing}
+
+::: {.callout-note}
+## Data source
+Not applicable in this chapter.
+:::
+
+## Learning goals
+
+- Set up a reproducible project (RStudio project, folders, Quarto).
+- Publish a Quarto book from GitHub.
+
+## Session A: discover
+
+TBA
+
+## Session B: extend
+
+TBA
+
+## About me and my reproducible setup
+
+*(Short presentation: who you are, your research interests, why you took this course.)*
+
+```{r}
+#| label: session-info
+sessionInfo()
+```
+
+

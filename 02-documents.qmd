@@ -1,0 +1,22 @@
+# Tables locked in documents {#sec-documents}
+
+::: {.callout-note}
+## Data source
+- **Files:** *(file names in `data/raw/`)*
+- **Publisher and licence:**
+- **Date downloaded:**
+:::
+
+## Learning goals
+
+- Extract a table from a messy spreadsheet.
+- Extract a table from a PDF and check the result against the printed totals.
+
+## Session A: messy spreadsheets
+
+TBA
+
+## Session B: PDF tables
+
+TBA
+

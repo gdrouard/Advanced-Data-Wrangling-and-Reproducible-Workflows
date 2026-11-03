@@ -1,0 +1,35 @@
+# My project {#sec-project}
+
+::: {.callout-note}
+## Data source
+- **API and endpoint:**
+- **Query parameters:**
+- **Licence:**
+- **Retrieved on:**
+:::
+
+## Research question
+
+*(One or two sentences.)*
+
+## Data acquisition
+
+*(Fetch code, `eval: false`. Raw response saved in `data/raw/`.)*
+
+## Cleaning
+
+*(Each cleaning step, and why. Combine at least two API calls or two dimensions.)*
+
+## Analysis
+
+*(A simple analysis on the cleaned table. The focus is the data, not the model.)*
+
+## Conclusions
+
+*(A few sentences to summarize your project)*
+
+
+## Limitations
+
+*(What could be wrong with the data or the analysis?)*
+

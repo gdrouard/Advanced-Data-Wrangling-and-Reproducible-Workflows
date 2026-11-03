@@ -1,0 +1,46 @@
+# JSON files and APIs {#sec-json-api}
+
+::: {.callout-note}
+## Data source
+- **JSON file (week 4):** *(file name, publisher, licence)*
+- **API (week 5):** *(endpoint, query parameters, licence)*
+- **Retrieved on:** *(date; also see the `.meta.json` file next to the raw response)*
+:::
+
+## Learning goals
+
+- Read and flatten JSON.
+- Call an API once, save the raw response, and process it.
+
+## Part 1: JSON files
+
+TBA
+
+## Part 2: APIs (fetch, then process)
+
+Run the fetch **once** in the console or a script, commit the saved file, and
+keep the call in the chapter with `eval: false` so readers can see how the data were obtained.
+
+```{r}
+#| label: fetch-example
+#| eval: false
+source(here::here("R", "fetch_helpers.R"))
+
+fetch_cached(
+  url   = "https://example.org/api/endpoint",
+  path  = here::here("data", "raw", "example_YYYY-MM-DD.json"),
+  query = list(param = "value")
+)
+```
+
+The chapter then reads only the saved file:
+
+```{r}
+#| label: read-example
+#| eval: false
+raw <- jsonlite::read_json(
+  here::here("data", "raw", "example_YYYY-MM-DD.json"),
+  simplifyVector = FALSE
+)
+```
+

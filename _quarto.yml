@@ -1,0 +1,29 @@
+project:
+  type: book
+  output-dir: _book
+
+book:
+  title: " Advanced Data Wrangling and Reproducible Workflows: my course ebook"
+  author: "Your name"            # <- replace
+  date: today
+  repo-url: https://github.com/USERNAME/REPOSITORY   # <- replace
+  repo-actions: [edit, issue]
+  chapters:
+    - index.qmd
+    - 01-framing.qmd
+    - 02-documents.qmd
+    - 03-nested.qmd
+    - 04-json-api.qmd
+    - 05-project.qmd
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-link: true
+
+execute:
+  echo: true
+  warning: false
+  message: false
+  freeze: auto  

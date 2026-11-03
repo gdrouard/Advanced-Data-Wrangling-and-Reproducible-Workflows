@@ -1,0 +1,22 @@
+# Nested data {#sec-nested}
+
+::: {.callout-note}
+## Data source
+- **Files:** *(file names in `data/raw/`)*
+- **Publisher and licence:**
+- **Date downloaded:**
+:::
+
+## Learning goals
+
+- Read nested lists and list-columns.
+- Flatten them into tidy tables (`tidyr::unnest_*()`, `hoist()`, `purrr`).
+
+## Session A: discover
+
+TBA
+
+## Session B: extend
+
+TBA
+
