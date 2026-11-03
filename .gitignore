@@ -7,3 +7,6 @@
 _book/
 _freeze/
 *_files/
+
+/.quarto/
+**/*.quarto_ipynb
